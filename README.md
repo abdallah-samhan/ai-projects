@@ -7,3 +7,4 @@ This repository contains Artificial Intelligence components from my projects, in
 Purpose:
 - Showcase AI skills independently from web projects
 - Provide a clear and organized view of AI implementations
+
